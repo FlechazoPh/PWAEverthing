@@ -10,7 +10,12 @@ PWAEverthing - 一键网页支持PWA插件
 
 # Demo
 
-https://user-images.githubusercontent.com/94276146/201472123-fc4cca26-694f-47dc-a0b7-c9c52662650a.mp4
+
+
+
+https://user-images.githubusercontent.com/94276146/201472216-c3c3de49-966b-4510-8218-7a9eba24cd39.mp4
+
+-------------------
 
 
 # PWA 是渐进式网页应用（Progressive Web Apps）
